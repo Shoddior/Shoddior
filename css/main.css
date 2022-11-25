@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .header-ava{
+    background: url(/img/photo_2022-11-20_10-28-04.jpg) no-repeat center / cover;
+    min-height: 700px;
+    width: 1535px;
+} */
+body{
+    background: url(/img/photo_2022-11-20_10-28-04.jpg) no-repeat center / cover;
+    min-height: 700px;
+    width: 1535px;
+    
+    
+}
+.ava-content{
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+    /* border: 10px solid rgb(255, 86, 227); */
+    box-shadow: 4px 4px 2px violet;
+ 
+}
+.ava-container{
+    box-shadow: 2px 2px 15px lightskyblue;
+}
+
